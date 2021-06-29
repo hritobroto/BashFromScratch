@@ -1,8 +1,10 @@
 # Bash From Scratch
 
 Running the code
-*g++ -o shell shell.cpp -lreadline
-*./shell
+```
+g++ -o shell shell.cpp -lreadline
+./shell
+```
 
 This code currently has the functions:
 * run ls commands
